@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center flex flex-col items-center">
         <h2 className="text-orange-500 font-bold text-lg sm:text-xl tracking-widest uppercase mb-4 animate-fade-in-up">
-          Digital Excellence
+          Digital Marketing
         </h2>
         <h1 className="text-5xl sm:text-7xl md:text-8xl font-black text-white tracking-tight leading-none mb-8 max-w-4xl mx-auto">
           GROWTH <br />
